@@ -1,0 +1,229 @@
+,company_name,company_number,company_status,company_type,date_of_cessation,country,date_of_creation,address_line_1,locality,postal_code,address_line_2,region,country,SICCODE_0,Value,date_of_creation_month,date_of_cessation_month
+0,NEW LAL GOLAP LTD,7805572,dissolved,ltd,2018-06-11,England,2011-11-10,187 London Road,Burgess Hill,RH15 8LH,0,0,England,56101,True,11,06
+1,BEXHILL ENTERPRISE LIMITED,7805866,dissolved,ltd,2014-09-30,England,2011-11-10,17-21 Cooden Sea Road,Bexhill-On-Sea,TN39 4SJ,0,East Sussex,England,56101,True,11,09
+2,DUGGAN AND HURST LIMITED,7803991,dissolved,ltd,2017-02-05,0,2011-10-10,Gough House,Kingston Upon Thames,KT1 1DA,57 Eden Street,Surrey,0,56101,True,10,02
+3,BLUE THAI KITCHEN LTD,7806028,dissolved,ltd,2021-04-12,0,2011-11-10,1 Radian Court,Milton Keynes,MK5 8PJ,Knowlhill,0,0,56101,True,11,04
+4,DELHICIOUS SPICE LIMITED,7805431,dissolved,ltd,2017-01-17,0,2011-11-10,139 Wilbraham Road,Manchester,M14 7DS,Fallowfield,0,0,56101,True,11,01
+5,ACHA HAI LIMITED,7804640,dissolved,ltd,2016-03-15,United Kingdom,2011-11-10,76 George Street,Corby,NN17 1QE,0,Northamptonshire,United Kingdom,56101,True,11,03
+6,VP1 LIMITED,7805020,dissolved,ltd,2015-05-05,England,2011-11-10,27 High View Close,Leicester,LE4 9LJ,Hamilton Office Park,0,England,56101,True,11,05
+7,MANAKAMANA FOOD LIMITED,7806874,dissolved,ltd,2015-02-24,0,2011-12-10,54 Walsall Street,Wolverhampton,WV1 3LL,0,0,0,56101,True,12,02
+8,CS CAMBRIDGE LIMITED,7807566,dissolved,ltd,2018-02-13,England,2011-12-10,Quern House Mill Court,Cambridge,CB22 5LD,Great Shelford,0,England,56101,True,12,02
+9,GURKHA TANDOORI (UK) LIMITED,7807794,dissolved,ltd,2017-10-10,0,2011-12-10,36 Chorley Road Swinton,Manchester,M27 5AF,0,0,0,56101,True,12,10
+10,APOLLONIA CAFE LTD,7808130,dissolved,ltd,2016-11-15,0,2011-10-13,99 South End,Croydon,CR0 1BG,0,0,0,56101,True,10,11
+11,FRITH STREET BARS LIMITED,7807947,dissolved,ltd,2014-09-23,0,2011-12-10,925 Finchley Road,London,NW11 7PE,0,0,0,56101,True,12,09
+12,BODRUM GRILL (FELIXSTOWE) LIMITED,7808949,dissolved,ltd,2015-07-04,0,2011-10-13,Bank House 129,Ipswich,IP6 8DH,High Street Needham Market,Suffolk,0,56101,True,10,07
+13,ACEBROOK SOLUTIONS LIMITED,7808841,dissolved,ltd,2016-11-25,0,2011-10-13,Olympia House,London,NW11 8RQ,Armitage Road,0,0,56101,True,10,11
+14,MAUSAMS LIMITED,7809023,dissolved,ltd,2014-09-12,0,2011-10-13,115 High Road,Bedford,MK45 3AX,Cotton End,0,0,56101,True,10,09
+15,KITTY RESTAURANTS LIMITED,7809225,dissolved,ltd,2018-03-27,0,2011-10-13,1st Floor,London,N3 2LT,314 Regents Park Road,0,0,56101,True,10,03
+16,PADRON LIMITED,7809977,active,ltd,1970-01-01,United Kingdom,2011-10-14,13 Harrow Place,London,E1 7DB,0,0,United Kingdom,56101,True,10,01
+17,PAPRIKA CLUB LTD,7809988,active,ltd,1970-01-01,England,2011-10-14,57 Alfred Street,Birmingham,B12 8JP,C/O Kaiser Nouman Nathan Llp,0,England,56101,True,10,01
+18,BOMBAY KHANA LIMITED,7809473,dissolved,ltd,2015-10-11,0,2011-10-13,39 Ship Street,Brighton,BN1 1AB,0,East Sussex,0,56101,True,10,10
+19,R HOUSE MANCHESTER LIMITED,7810581,dissolved,ltd,2019-06-05,0,2011-10-14,First Floor,Clifton,BS8 2QB,141 Whiteladies Road,Bristol,0,56101,True,10,06
+20,RUILUCI LIMITED,7810502,dissolved,ltd,2019-08-23,0,2011-10-14,6th Floor Walker House,Liverpool,L2 3YL,Exchange Flags,0,0,56101,True,10,08
+21,SARA 786 LIMITED,7812400,dissolved,ltd,2020-09-22,0,2011-10-17,Clarence House,Market Harborough,LE16 7NE,35 Clarence Street,Leicestershire,0,56101,True,10,09
+22,MAGIC GUSTO LIMITED,7803486,liquidation,ltd,1970-01-01,0,2011-10-10,4th Floor Fountain Precinct,Sheffield,S1 2JA,Leopold Street,0,0,56101,True,10,01
+23,LZ LONDON LIMITED,7810872,dissolved,ltd,2017-07-24,0,2011-10-14,1a Pudding Lane,London,EC3R 8AB,0,0,0,56101,True,10,07
+24,BENGAL PARADISE OF HULL LTD,7812582,dissolved,ltd,2016-12-20,0,2011-10-17,Unit 2-3 88 Mile End Road,London,E1 4UN,0,0,0,56101,True,10,12
+25,JUN (CORNWALL) LTD,7811224,dissolved,ltd,2015-07-04,0,2011-10-14,Plaza Building,Lewisham,SE13 5PT,102 Lee High Road,London,0,56101,True,10,07
+26,BEN ASLAN LTD,7811502,dissolved,ltd,2014-09-09,England,2011-10-17,152 Stoke Newington Road,London,N16 7XA,0,0,England,56101,True,10,09
+27,COVENTRY HOTELS & RESTURANTS LIMITED,7813122,dissolved,ltd,2015-05-19,United Kingdom,2011-10-18,1 & 2 Mercia Village,Coventry,CV4 8HX,Torwood Close Westwood Business Park,West Midlands,United Kingdom,56101,True,10,05
+28,JUST PUBS AND DINING LIMITED,7812637,dissolved,ltd,2017-07-07,0,2011-10-17,Olympia House,London,NW11 8RQ,Armitage Road,0,0,56101,True,10,07
+29,N STOCK LIMITED,7814498,dissolved,ltd,2016-08-03,0,2011-10-18,Winston Churchill House,Birmingham,B2 4BG,Ethel Street,West Midlands,0,56101,True,10,08
+30,GOLDEN LION RESTAURANT LTD,7816670,dissolved,ltd,2021-02-28,0,2011-10-19,72 Exeter Road,Cullompton,EX15 1DZ,0,0,0,56101,True,10,02
+31,OSTERIA DA FABRIZIO LIMITED,7816087,dissolved,ltd,2018-04-30,0,2011-10-19,Concorde House Grenville Place,London,NW7 3SA,Mill Hill,0,0,56101,True,10,04
+32,4 CORNERS RESTAURANTS LTD,7816725,dissolved,ltd,2014-10-21,United Kingdom,2011-10-20,18 Wesley Street,Southport,PR8 1BN,0,Merseyside,United Kingdom,56101,True,10,10
+33,HEALTHY LIVING CUISINE LTD,7819251,dissolved,ltd,2021-03-16,England,2011-10-21,Georgian House Market Place,Newark,NG22 0LL,Tuxford,Nottinghamshire,England,56101,True,10,03
+34,AKMAL'S LIMITED,7818374,dissolved,ltd,2016-05-07,United Kingdom,2011-10-20,105-107 Portland Street,Manchester,M1 6DF,0,0,United Kingdom,56101,True,10,05
+35,THE GREENROOM NEWBURY LTD,7818227,dissolved,ltd,2015-11-08,0,2011-10-20,11 Dart Close,Thatcham,RG18 3DR,0,Berkshire,0,56101,True,10,11
+36,GREENSTONE CATERING LIMITED,7824916,dissolved,ltd,2016-12-20,0,2011-10-27,18 The Ropewalk,Nottingham,NG1 5DT,0,0,0,56101,True,10,12
+37,NEW GOSFORTH RESTAURANT LTD,7827492,dissolved,ltd,2014-10-21,England,2011-10-28,12 Cottage Farm,Newcastle Upon Tyne,NE7 7RF,0,0,England,56101,True,10,10
+38,WOODY'S FOOD EMPORIUM LTD,7827088,dissolved,ltd,2017-03-01,0,2011-10-28,Ty Mawr Gell,Abergele,LL22 8RF,Llangernyw,Clwyd,0,56101,True,10,03
+39,CORCASTLE LIMITED,7827337,dissolved,ltd,2014-10-21,England,2011-10-28,3 Chester Road,Chester,WA6 0JE,Hapsford,Cheshire,England,56101,True,10,10
+40,S W MIDLANDS LIMITED,7829704,dissolved,ltd,2016-02-02,0,2011-10-31,167-170 Stafford Street,Wolverhampton,WV1 1NA,0,0,0,56101,True,10,02
+41,BABA (KETTERING) LIMITED,7830129,dissolved,ltd,2016-02-02,0,2011-01-11,Clarence House,Market Harborough,LE16 7NE,35 Clarence Street,Leicestershire,0,56101,True,01,02
+42,PIZZA LOUNGE LIMITED,7830081,dissolved,ltd,2017-09-26,0,2011-01-11,La Tavernetta,Southampton,SO14 7FJ,1-3 Civic Centre Road,Hampshire,0,56101,True,01,09
+43,FREEGAIN LTD,7831240,dissolved,ltd,2019-10-15,0,2011-01-11,8 Chapel Hill,Stansted,CM24 8AG,0,Essex,0,56101,True,01,10
+44,RAJPUT SPICE LIMITED,7834103,dissolved,ltd,2017-06-13,0,2011-03-11,The Cross And Bowling Green Pub,Redditch,B98 9DR,Alcester Road Beoley,West Midlands,0,56101,True,03,06
+45,FD NOT LIMITED,7834231,dissolved,ltd,2019-08-23,0,2011-03-11,No 1 Whitehall Riverside,Leeds,LS1 4BN,0,West Yorkshire,0,56101,True,03,08
+46,THE PACK RESTAURANT & BAR LIMITED,7835202,dissolved,ltd,2021-07-20,0,2011-04-11,2-3 Winckley Court Chapel Street,Preston,PR1 8BU,0,Lancashire,0,56101,True,04,07
+47,T MANAGEMENT LIMITED,7837715,dissolved,ltd,2015-05-19,0,2011-07-11,Winston Churchill House,Birmingham,B2 4BG,Ethel Street,West Midlands,0,56101,True,07,05
+48,NEW CROMBIES RESTAURANT LTD,7838550,dissolved,ltd,2016-12-07,United Kingdom,2011-08-11,New Crombies Restaurant,Darlington,DL1 1PD,36-40 Tubwell Row,County Durham,United Kingdom,56101,True,08,12
+49,JADOO LTD,7847048,dissolved,ltd,2019-04-23,England,2011-11-14,15 Church Lane,Middlesbrough,TS5 7EQ,Acklam,0,England,56101,True,11,04
+50,PRITIRAJ LTD,7845873,dissolved,ltd,2015-06-23,0,2011-11-14,Unit 2-3 88 Mile End Road,London,E1 4UN,0,0,0,56101,True,11,06
+51,COOKING APE LIMITED,7847851,dissolved,ltd,2015-01-27,0,2011-11-15,3 Geoffrey Road,Solihull,B90 2HW,Shirley,West Midlands,0,56101,True,11,01
+52,YI PIN CHINA LTD,7848127,dissolved,ltd,2015-11-24,0,2011-11-15,3rd Floor 19 Gerrard Street,London,WID 6JG,0,0,0,56101,True,11,11
+53,KADAM HATA LIMITED,7848492,dissolved,ltd,2019-12-07,0,2011-11-15,Olympia House,London,NW11 8RQ,Armitage Road,0,0,56101,True,11,12
+54,THE MERMAID'S SLIPPER LIMITED,7850495,active,ltd,1970-01-01,England,2011-11-16,The Norfolk Clinical Park Rowan House,Norwich,NR10 5RH,Buxton,Norfolk,England,56101,True,11,01
+55,ROLL WITH US LTD,7851112,dissolved,ltd,2015-10-03,0,2011-11-17,2 Bramshot Way,Watford,WD19 7PS,0,0,0,56101,True,11,10
+56,IKY'S CUISINE LIMITED,7850642,dissolved,ltd,2018-02-24,0,2011-11-17,90 Berry Lane,Preston,PR3 3WH,Longridge,0,0,56101,True,11,02
+57,S & C NEPAL LIMITED,7848942,dissolved,ltd,2017-01-17,England,2011-11-16,22 High Street,Woking,GU21 2PE,Knaphill,Surrey,England,56101,True,11,01
+58,RAJMAHAL (FROMES HILL) LTD,7849705,dissolved,ltd,2015-03-17,0,2011-11-16,Fromes Hill Fromes,Ledbury,HR8 1HT,Ledbury,Herefordshire,0,56101,True,11,03
+59,FAHRENHEIT UK LTD,7852634,dissolved,ltd,2020-04-16,0,2011-11-18,116 High Street,Staines-Upon-Thames,TW18 4BY,0,Middlesex,0,56101,True,11,04
+60,RJD CATERING LIMITED,7854059,dissolved,ltd,2020-02-18,0,2011-11-21,18 Hill Top Road,Northwich,CW8 3RA,Acton Bridge,Cheshire,0,56101,True,11,02
+61,FLING FLONG LTD,7852101,dissolved,ltd,2017-07-27,0,2011-11-18,3 Field Court,London,WC1R 5EF,0,0,0,56101,True,11,07
+62,FAT BELLY (BIRMINGHAM) LTD,7852776,dissolved,ltd,2015-06-10,0,2011-11-18,15 Highfield Road,Birmingham,B28 0EL,Hall Green,West Midlands,0,56101,True,11,06
+63,SONALI GHAR LTD,7852406,dissolved,ltd,2016-03-05,0,2011-11-18,339 Two Mile Hill Road,Bristol,BS15 1AN,Kingswood,0,0,56101,True,11,03
+64,THE LAUNDRY (LIVERPOOL) LIMITED,7852761,dissolved,ltd,2016-05-07,England,2011-11-18,99-101 Lark Lane,Liverpool,L17 8UP,0,0,England,56101,True,11,05
+65,FORINS LIMITED,7853512,dissolved,ltd,2015-08-12,0,2011-11-18,Oakwell House 12a Oakwell Avenue,Batley,WF17 8QA,Carlinghow,West Yorkshire,0,56101,True,11,08
+66,RICKFORD LIMITED,7852440,dissolved,ltd,2014-09-30,England,2011-11-18,Quantum House,Chertsey,KT16 9AX,Guildford Street,Surrey,England,56101,True,11,09
+67,MULDECK LTD,7853188,dissolved,ltd,2020-09-22,England,2011-11-18,59 Brackley Crescent,Basildon,SS13 1RA,0,0,England,56101,True,11,09
+68,CELTIC CARVERIES & ALEHOUSE LIMITED,7856504,dissolved,ltd,2018-09-13,0,2011-11-22,10 St Helens Road,Swansea,SA1 4AW,0,0,0,56101,True,11,09
+69,THE ORIGINAL ALPHABET SOUP LIMITED,7804332,dissolved,ltd,2019-03-26,0,2011-10-10,13 Bowes Street,Blyth,NE24 1BD,0,Northumberland,0,56102,True,10,03
+70,SEYMOUR CAFE LTD,7804464,dissolved,ltd,2020-03-31,0,2011-10-10,Highfield House 149b Ermin Street,Gloucester,GL3 4HG,Brockworth,Gloucestershire,0,56102,True,10,03
+71,COOKVILLE RESTAURANT LTD,7803397,dissolved,ltd,2018-12-18,0,2011-10-10,563 City Road,Sheffield,S2 1GL,0,0,0,56102,True,10,12
+72,CANDAN LTD,7804802,dissolved,ltd,2020-03-17,0,2011-11-10,10 The Broadway,St. Ives,PE27 5BX,0,Cambridgeshire,0,56102,True,11,03
+73,LAHORI MASALA & GRILL LTD.,7806159,dissolved,ltd,2016-12-20,0,2011-11-10,906 Uxbridge Road,Hayes,UB4 0RW,0,0,0,56102,True,11,12
+74,WWW.LUNCHINABAG.CO.UK LIMITED,7810115,dissolved,ltd,2016-12-20,England,2011-10-14,3 Silchester Corner,Southend-On-Sea,SS3 0PX,Great Wakering,Essex,England,56102,True,10,12
+75,MLC ENTERPRISES LTD,7812114,dissolved,ltd,2021-03-16,0,2011-10-17,247 Hazel Road,Erith,DA8 2NB,0,Kent,0,56102,True,10,03
+76,GULCEM LTD,7812724,dissolved,ltd,2016-01-03,United Kingdom,2011-10-17,147 Cranbrook Road,Ilford,IG1 4PU,0,Essex,United Kingdom,56102,True,10,01
+77,K STAND LTD.,7815039,dissolved,ltd,2019-12-11,0,2011-10-19,Colman House,Birmingham,B3 1RS,121 Livery Street,0,0,56102,True,10,12
+78,KELTIX LIMITED,7817603,dissolved,ltd,2016-12-20,0,2011-10-20,101 Kingsway Holborn,London,WC2B 6QX,0,0,0,56102,True,10,12
+79,FLEXLOG LIMITED,7817387,dissolved,ltd,2018-04-26,0,2011-10-20,212 Mile End Road,London,E1 4LJ,0,0,0,56102,True,10,04
+80,TASTE CATERING LIMITED,7820925,dissolved,ltd,2014-10-21,United Kingdom,2011-10-24,353 Southwark Park Road,London,SE16 2JN,0,0,United Kingdom,56102,True,10,10
+81,SY CATERING LTD,7824598,dissolved,ltd,2016-06-09,0,2011-10-26,41 Palmerston Road,Walthamstow,E17 6PR,0,London,0,56102,True,10,06
+82,EMILE'S  PENARTH LIMITED,7825387,dissolved,ltd,2014-10-14,Wales,2011-10-27,The Old Coach House,Penarth,CF64 2UW,3a Cornerswell Road,Vale Of Glamorgan,Wales,56102,True,10,10
+83,FARMHOUSE WHITBEY PARADE LIMITED,7828206,dissolved,ltd,2015-03-31,0,2011-10-31,5 Whitbey Parade,South Ruislip,HA4 9EA,Whitbey Road,Middlesex,0,56102,True,10,03
+84,NOAH'S ARK CAFE LIMITED,7830262,dissolved,ltd,2016-03-29,0,2011-01-11,10 Chapel Road,Ilford,IG1 2AG,0,Essex,0,56102,True,01,03
+85,BIG RICH'S COMMUNITY CAFE LIMITED,7830812,dissolved,ltd,2015-02-24,0,2011-01-11,Court Farm Main Street,Bristol,BS40 6JF,Compton Martin,0,0,56102,True,01,02
+86,D HOUSE LIMITED,7837464,dissolved,ltd,2015-03-17,0,2011-07-11,Winston Churchill House,Birmingham,B2 4BG,Ethel Street,West Midlands,0,56102,True,07,03
+87,CANOPY ESSEX LIMITED,7841740,dissolved,ltd,2020-01-14,England,2011-10-11,141 Beehive Lane,Ilford,IG4 5DR,0,0,England,56102,True,10,01
+88,CAFE ROSSIO LIMITED,7848858,active,ltd,1970-01-01,0,2011-11-16,1100 Harrow Road,London,NW10 5NL,0,0,0,56102,True,11,01
+89,PARATHA WRAPS LIMITED,7849454,dissolved,ltd,2017-06-27,0,2011-11-16,3b Fairfax Street,Coventry,CV1 5SR,0,0,0,56102,True,11,06
+90,JUST @ LIMITED,7851428,dissolved,ltd,2015-08-12,0,2011-11-17,5 St John'S Ways,London,N19 3QS,0,0,0,56102,True,11,08
+91,THE PARADE CAFE LTD,7850357,dissolved,ltd,2019-07-23,0,2011-11-16,Sea Acres,Skegness,PE25 3BB,Gibraltar Road,Lincolnshire,0,56102,True,11,07
+92,C & G BARS LIMITED,7803532,dissolved,ltd,2016-08-03,0,2011-10-10,451 Saffron Lane,Leicester,LE2 6UG,0,Leicestershire,0,56302,True,10,08
+93,A RICKERBY LIMITED,7805710,dissolved,ltd,2017-03-28,0,2011-11-10,The Ship Inn,Carlisle,CA5 6PE,Thursby,Cumbria,0,56302,True,11,03
+94,OSCAR VEGAS LIMITED,7804975,liquidation,ltd,1970-01-01,0,2011-11-10,"Suite 4, Portfolio House, 3",Dorchester,DT1 1TP,Princes Street,Dorset,0,56302,True,11,01
+95,FIZZY PUBS LTD,7807051,dissolved,ltd,2015-12-15,Wales,2011-12-10,32 Elgin Street,Swansea,SA5 8QF,Manselton,0,Wales,56302,True,12,12
+96,STAG'S HEAD (KNAITH PARK) LIMITED,7808901,dissolved,ltd,2015-10-27,0,2011-10-13,107 Cleethorpe Road,Grimsby,DN31 3ER,0,N E Lincs,0,56302,True,10,10
+97,PIPINNS HERITAGE PUB LTD,7810204,dissolved,ltd,2017-03-01,0,2011-10-14,The Rock Inn Hoath Corner,Edenbridge,TN8 7BS,Chiddinstone Hoath,Kent,0,56302,True,10,03
+98,REGAL TRADE LIMITED,7809417,dissolved,ltd,2018-02-27,0,2011-10-13,51 High Street,Scunthorpe,DN17 4LB,Crowle,North Lincolnshire,0,56302,True,10,02
+99,HOLDENS INN LIMITED,7810444,dissolved,ltd,2015-09-29,United Kingdom,2011-10-14,6b Parkway,St. Albans,AL3 6PA,Porters Wood,Hertfordshire,United Kingdom,56302,True,10,09
+100,BEANIES BARS LIMITED,7802435,dissolved,ltd,2015-05-19,0,2011-07-10,Layton House 3-5 Westcliffe Drive,Blackpool,FY3 7BJ,Layton Square,0,0,56302,True,07,05
+101,HOLYWELL INNS LTD,7803315,dissolved,ltd,2016-12-28,0,2011-10-10,Eagle Point,Segensworth Fareham,PO15 5TD,Little Park Farm Road,Hampshire,0,56302,True,10,12
+102,WYNDER VETINARI & POONS LTD,7812685,dissolved,ltd,2016-02-16,0,2011-10-17,Queens Head Hotel,Rye,TN31 7LH,Landgate,East Sussex,0,56302,True,10,02
+103,SENTRY PUBS LTD,7814291,dissolved,ltd,2016-03-11,0,2011-10-18,Xl Business Solutions Ltd Premier House,Cleckheaton,BD19 3TT,Bradford Road,0,0,56302,True,10,03
+104,BLACK BULL INN (WELTON) LIMITED,7817085,dissolved,ltd,2021-03-16,0,2011-10-20,9 Lincoln Road,Lincoln,LN2 3HZ,Welton,0,0,56302,True,10,03
+105,FRANK'S FRONT ROOM LIMITED,7818005,dissolved,ltd,2014-07-10,England,2011-10-20,93 Bohemia Road,St Leonards On Sea,TN37 6RJ,0,East Sussex,England,56302,True,10,07
+106,MULBERRY HOSPITALITY LIMITED,7816594,dissolved,ltd,2022-03-22,0,2011-10-19,6 Ickworth Crescent,Ipswich,IP4 5PQ,Bixley Farm,Suffolk,0,56302,True,10,03
+107,SHAFREE LIMITED,7819035,dissolved,ltd,2016-12-20,0,2011-10-21,Unit 174-176 Station Road,Harrow,HA1 2RH,0,Middlesex,0,56302,True,10,12
+108,THREE GRACES LTD,7817999,dissolved,ltd,2016-11-25,0,2011-10-20,Saxon House,Cheltenham,GL52 6QX,Saxon Way,Gloucestershire,0,56302,True,10,11
+109,THE FLYING CLUB CAFE LIMITED,7818119,dissolved,ltd,2015-10-02,0,2011-10-20,The Annexe Treedogan Middle House,Barry,CF62 3BS,Tredogan,South Glamorgan,0,56302,True,10,10
+110,THE RIFLEMAN (NANTWICH) LIMITED,7820449,dissolved,ltd,2016-06-28,0,2011-10-24,The Rifleman 68 James Hall Street,Cheshire,CW5 5QE,Nantwich,0,0,56302,True,10,06
+111,B B MANAGEMENT LIMITED,7824754,dissolved,ltd,2016-02-16,0,2011-10-26,107 Cliff Gardens,Scunthorpe,DN15 7BJ,0,South Humberside,0,56302,True,10,02
+112,RL FOUNTAINS LIMITED,7825490,dissolved,ltd,2016-11-26,0,2011-10-27,WILSON FIELD LIMITED,Sheffield,S11 9PS,The Manor House 260 Ecclesall Road South,South Yorkshire,0,56302,True,10,11
+113,THE BEER & BOOZE LIMITED,7825044,dissolved,ltd,2016-01-19,England,2011-10-27,35 Muriel Road,Leicester,LE3 6BH,0,0,England,56302,True,10,01
+114,CROSS KEYS (DARFIELD) LTD,7826632,dissolved,ltd,2017-04-04,0,2011-10-27,The Cross Keys Church Street,Barnsley,S73 9JX,Darfield,South Yorkshire,0,56302,True,10,04
+115,BUCKINGHAMS BLACKPOOL LIMITED,7827886,dissolved,ltd,2016-05-04,United Kingdom,2011-10-28,Carringtons Accountants,Bradford,BD1 4AB,14 Mill Street,West Yorkshire,United Kingdom,56302,True,10,05
+116,PROGRESSIVE INNS NW LIMITED,7829267,active,ltd,1970-01-01,0,2011-10-31,Hanover Buildings,Liverpool,L1 3DN,11-13 Hanover Street,Merseyside,0,56302,True,10,01
+117,THE GUNMAKERS PUBLIC HOUSE LIMITED,7826465,dissolved,ltd,2019-02-07,0,2011-10-27,14 Gloucester Place Mews,London,W1U 8BA,0,0,0,56302,True,10,02
+118,BLACK HORSE NW LTD,7828296,dissolved,ltd,2018-08-14,0,2011-10-31,20 Stanley Avenue,Wirral,CH63 5QF,0,0,0,56302,True,10,08
+119,BAPH LIMITED,7831357,dissolved,ltd,2015-10-11,United Kingdom,2011-01-11,1st Floor,Frinton-On-Sea,CO13 9AB,143 Connaught Avenue,Essex,United Kingdom,56302,True,01,10
+120,THE KERRYMAN PUB COMPANY LIMITED,7830599,dissolved,ltd,2017-02-05,0,2011-01-11,35 Ludgate Hill,Birmingham,B3 1EH,0,0,0,56302,True,01,02
+121,LEISURE 24/7 LIMITED,7830672,dissolved,ltd,2015-06-16,0,2011-01-11,Middleton Mill,Taunton,TA3 7PT,Churchstanton,Somerset,0,56302,True,01,06
+122,FURSTY MEDIA LIMITED,7831606,dissolved,ltd,2014-10-22,0,2011-02-11,Wesley House Huddersfield Road,Batley,WF17 9EJ,Birstall,0,0,56302,True,02,10
+123,MORLEY WOOD (BRANDON) LIMITED,7831420,dissolved,ltd,2017-04-25,0,2011-01-11,Innscribe Uk,Bradford,BD14 AB,14 Mill Street,West Yorkshire,0,56302,True,01,04
+124,RLM SOUTH LTD,7831755,dissolved,ltd,2015-01-09,0,2011-02-11,2 Acorn Court,Wymondham,NR18 9AL,Bridge Industrial Estate,Norfolk,0,56302,True,02,01
+125,RLM WEST LTD,7831710,dissolved,ltd,2014-10-14,England,2011-02-11,2 Acorn Court,Wymondham,NR18 9AL,Bridge Industrial Estate,Norfolk,England,56302,True,02,10
+126,JAM TREE CLAPHAM LTD,7832556,dissolved,ltd,2021-04-13,England,2011-02-11,Aquum,London,SW4 7UL,68-70 Clapham High Street,0,England,56302,True,02,04
+127,HQ BAR (GRAVESEND) LTD,7832593,dissolved,ltd,2016-12-07,England,2011-02-11,3a Windmill Street,Gravesend,DA12 1AD,0,Kent,England,56302,True,02,12
+128,BROADOAK ENTERPRISES LIMITED,7837595,dissolved,ltd,2015-06-16,0,2011-07-11,58 High Street,Rochester,ME1 1LD,0,Kent,0,56302,True,07,06
+129,THE SCOTLAND (BIRSTALL) LTD,7836327,dissolved,ltd,2017-10-31,England,2011-04-11,691 Bradford Road,Bradford,BD11 2AU,Birkenshaw,West Yorkshire,England,56302,True,04,10
+130,A & M BARS LIMITED,7838496,dissolved,ltd,2019-08-17,0,2011-08-11,7 Smithford Walk,Liverpool,L35 1SF,0,0,0,56302,True,08,08
+131,KILMARNOCK PUB CO LIMITED,7845082,dissolved,ltd,2016-03-29,0,2011-11-11,"5th Floor, Ergon House",London,SW1P 2AL,Horseferry Road,0,0,56302,True,11,03
+132,FERRY HOUSE PUB MANAGEMENT LTD,7846782,dissolved,ltd,2020-11-17,England,2011-11-14,26 Ferry Street,London,E14 3DT,0,0,England,56302,True,11,11
+133,STOKER LEISURE LIMITED,7847078,dissolved,ltd,2016-05-01,England,2011-11-14,15 Olive Street,Sunderland,SR1 3PE,0,0,England,56302,True,11,05
+134,BRIGHTSTAR LEISURE LTD,7847659,dissolved,ltd,2016-12-07,0,2011-11-15,Abertawe House Ystrad Road,Swansea,SA5 4JB,Fforestfach,0,0,56302,True,11,12
+135,CROSS KEYS (PONTEFRACT) LIMITED,7847852,dissolved,ltd,2016-07-06,0,2011-11-15,Innscribe Uk,Bradford,BD1 4AB,14 Mill Street,West Yorkshire,0,56302,True,11,07
+136,THE WHEEL INN (U.K) LIMITED,7848262,dissolved,ltd,2017-12-12,0,2011-11-15,81 Roseneath Avenue,Leicester,LE4 7GU,0,0,0,56302,True,11,12
+137,YOURTUBEZ LIMITED,7850473,dissolved,ltd,2020-01-14,0,2011-11-16,10 Hanover Street,Bromsgrove,B61 7JH,0,Worcestershire,0,56302,True,11,01
+138,INVITING INNS LIMITED,7852698,dissolved,ltd,2015-01-09,0,2011-11-18,The King George Moss Lane,Altrincham,WA15 8BA,Hale,Cheshire,0,56302,True,11,01
+139,ANCIENT & IMPERIAL PUB COMPANY LIMITED,7850053,dissolved,ltd,2019-04-16,0,2011-11-16,Reedham House,Manchester,M3 2PJ,31 King Street West,Lancashire,0,56302,True,11,04
+140,CHIPPENHAM LEISURE LTD,7850977,dissolved,ltd,2014-12-23,England,2011-11-17,22 Market Place,Chippenham,SN15 3HW,0,0,England,56302,True,11,12
+141,H & H TAVERN LTD,7855248,dissolved,ltd,2017-09-26,0,2011-11-21,157 Waterloo Road,Wokingham,RG40 2JN,0,Berkshire,0,56302,True,11,09
+142,PAC MAC LTD,7856494,dissolved,ltd,2015-03-03,0,2011-11-22,The Brick Kiln Public House Norwich Road,Norwich,NR13 5JH,Little Plumstead,Norfolk,0,56302,True,11,03
+143,RIDGE AND FURROW INNS LTD,7856573,dissolved,ltd,2019-01-07,0,2011-11-22,WILSON FIELD LTD,Sheffield,S11 9PS,The Manor House 260 Ecclesall Road South,0,0,56302,True,11,01
+144,BOOTH LEISURE LTD,7854700,dissolved,ltd,2020-05-11,0,2011-11-21,Bulman House Regent Centre,Newcastle Upon Tyne,NE3 3LS,Gosforth,0,0,56302,True,11,05
+145,THE TALBOT INN GRETTON LTD,7855555,dissolved,ltd,2015-06-16,0,2011-11-21,Federation House,Kettering,NN16 8JS,36/38 Rockingham Road,Northants,0,56302,True,11,06
+146,HILLARY AND SCOTT LIMITED,7856681,active,ltd,1970-01-01,England,2011-11-22,Four Alls York House,Market Drayton,TF9 2AG,Woodseaves,0,England,56302,True,11,01
+147,THE NEW IVY LEAF CLUB LTD,7806175,receivership,private-limited-guarant-nsc,1970-01-01,0,2011-11-10,38a Suffolk Street,Sunderland,SR2 8JZ,0,Tyne And Wear,0,56301,True,11,01
+148,FRIAR PARK SOCIAL CLUB LTD,7825728,dissolved,private-limited-guarant-nsc,2017-10-17,0,2011-10-27,334 Adams Hill,Birmingham,B32 3PD,0,West Midlands,0,56301,True,10,10
+149,MAD STAR LTD,7845337,dissolved,ltd,2014-10-28,0,2011-11-11,One Great Cumberland Place,London,W1H 7LW,Marble Arch,0,0,56301,True,11,10
+150,DELIGHTFULLY LTD,7805488,dissolved,ltd,2017-03-28,0,2011-11-10,49 High Street,Saffron Walden,CB10 1AR,0,Essex,0,56103,True,11,03
+151,KASABA LTD,7804844,dissolved,ltd,2020-11-17,0,2011-11-10,8 The Broadway,St. Ives,PE27 5BN,0,Cambridgeshire,0,56103,True,11,11
+152,SANTOS KEBAB HOUSE LTD,7803769,dissolved,ltd,2015-09-15,0,2011-10-10,22 Bury Old Road,Salford,M7 4QJ,0,0,0,56103,True,10,09
+153,TM STAR LONDON LIMITED,7804352,dissolved,ltd,2018-12-18,0,2011-10-10,103 Kenton Road,Harrow,HA3 0AN,0,Middlesex,0,56103,True,10,12
+154,LH (DEVON) LTD,7804956,dissolved,ltd,2015-02-17,0,2011-11-10,Winston Churchill House,Birmingham,B2 4BG,Ethel Street,West Midlands,0,56103,True,11,02
+155,KC (BOLTON) LIMITED,7805172,dissolved,ltd,2016-03-22,0,2011-11-10,90-92 Bradshawgate,Bolton,BL1 1QQ,0,0,0,56103,True,11,03
+156,MINOX LTD,7807375,dissolved,ltd,2016-01-26,0,2011-12-10,C/O 174 Bounces Road,London,N9 8LA,0,0,0,56103,True,12,01
+157,S P (HANTS) LIMITED,7807044,dissolved,ltd,2017-01-31,0,2011-12-10,19 Garbett Road,Winchester,SO23 0NY,Winnall,Hampshire,0,56103,True,12,01
+158,CK FOODS LTD,7805844,dissolved,ltd,2017-12-09,0,2011-11-10,13 Wendover Road,Birmingham,B65 8LU,Rowley Regis,0,0,56103,True,11,12
+159,ALHAS LIMITED,7808569,dissolved,ltd,2015-05-26,0,2011-10-13,10 James Reckitt Avenue,Hull,HU8 7TP,0,0,0,56103,True,10,05
+160,H & A GUILDFORD LIMITED,7808860,dissolved,ltd,2015-05-19,0,2011-10-13,7 Westmoreland House,London,NW10 6RE,Scrubs Lane,0,0,56103,True,10,05
+161,BEXMILL LIMITED,7808863,dissolved,ltd,2017-03-28,0,2011-10-13,25 Hanbury Road,Newport,CF81 8QT,Bargoed,Cardiff,0,56103,True,10,03
+162,CHICKEN LANE LIMITED,7807979,dissolved,ltd,2015-06-30,0,2011-12-10,179 Firs Lane,Leigh,WN7 4SU,0,Lancashire,0,56103,True,12,06
+163,WORDLOCK LTD,7809926,dissolved,ltd,2014-07-10,United Kingdom,2011-10-14,Winston Churchill House,Birmingham,B2 4BG,Ethel Street,West Midlands,United Kingdom,56103,True,10,07
+164,S&B FRYERS LTD,7810342,dissolved,ltd,2015-08-12,0,2011-10-14,111 Malling Road,Snodland,ME6 5AB,0,Kent,0,56103,True,10,08
+165,SOPHIAN LIMITED,7813052,dissolved,ltd,2016-08-03,0,2011-10-17,114 Hamlet Court Road,Westcliff-On-Sea,SS0 7LP,0,Essex,0,56103,True,10,08
+166,SIZZLES (LEICESTER) LIMITED,7812135,dissolved,ltd,2014-10-21,England,2011-10-17,40 Hall Road,Leicester,LE7 9SX,Scraptoft,Leicestershire,England,56103,True,10,10
+167,J STOCK LIMITED,7814410,dissolved,ltd,2015-09-06,0,2011-10-18,Winston Churchill House,Birmingham,B2 4BG,Ethel Street,West Midlands,0,56103,True,10,09
+168,CASPER PIZZA LIMITED,7814313,dissolved,ltd,2015-09-06,0,2011-10-18,3 Rossgate,Hemel Hempstead,HP1 3LG,0,Herts,0,56103,True,10,09
+169,FULL HOUSE (HWK) LTD,7814629,dissolved,ltd,2017-05-13,England,2011-10-18,10-12 New College Parade,London,NW3 5EP,Finchley Road,0,England,56103,True,10,05
+170,KHAN'S BENFLEET LTD,7815126,dissolved,ltd,2015-02-17,0,2011-10-19,267 Kiln Road,Benfleet,SS7 1RU,0,Essex,0,56103,True,10,02
+171,NUMBER 1 CHEF LIMITED,7815530,dissolved,ltd,2016-11-22,0,2011-10-19,Suite 311 Ajp Business Centre,London,NW2 7HD,152-154 Coles Green Road,0,0,56103,True,10,11
+172,K STOCK LIMITED,7814495,dissolved,ltd,2015-02-17,0,2011-10-18,Winston Churchill House,Birmingham,B2 4BG,Ethel Street,West Midlands,0,56103,True,10,02
+173,MAC'S GRIDDLE LTD,7815571,dissolved,ltd,2018-03-27,0,2011-10-19,6 Stainer Close,Newton Le Willows,WA12 9WY,0,Merseyside,0,56103,True,10,03
+174,EL TURKISTAN LIMITED,7815535,active,ltd,1970-01-01,0,2011-10-19,9 The Parade,Tadworth,KT20 6AT,Brighton Road,Surrey,0,56103,True,10,01
+175,THE CHICKEN PLACE LTD,7816247,dissolved,ltd,2015-03-31,0,2011-10-19,84 Kingsley Road,Hounslow,TW3 1QA,0,0,0,56103,True,10,03
+176,BESOZ LIMITED,7817677,dissolved,ltd,2020-03-24,0,2011-10-20,117 Hatton Avenue,Slough,SL2 1PJ,0,Berkshire,0,56103,True,10,03
+177,EXOBELL LIMITED,7817495,dissolved,ltd,2015-09-06,0,2011-10-20,287 Kentish Town Road,London,NW5 2JS,0,0,0,56103,True,10,09
+178,BRITTONS OF NEW OSCOTT LIMITED,7819751,dissolved,ltd,2015-07-04,0,2011-10-21,Alexander House,Birmingham,B1 3EG,60 - 61 Tenby Street North,0,0,56103,True,10,07
+179,GLOBAL FAST FOOD LTD,7819923,dissolved,ltd,2016-09-13,Wales,2011-10-24,Suite 11 Tredegar Chambers,Newport,NP20 4AQ,Bridge Street,Gwent,Wales,56103,True,10,09
+180,APOLLO FAST FOOD LIMITED,7823333,dissolved,ltd,2016-05-07,United Kingdom,2011-10-26,Flat 2 12 Coniscliffe Road,London,N13 5NW,Palmers Green,0,United Kingdom,56103,True,10,05
+181,WATERLOO TAKEAWAY LIMITED,7826137,dissolved,ltd,2015-06-16,0,2011-10-27,109 South Road,Liverpool,L22 0LT,0,0,0,56103,True,10,06
+182,POPEYES (MORETON) LIMITED,7827784,dissolved,ltd,2017-11-28,0,2011-10-28,18 Upton Road,Wirral,CH46 0PA,Moreton,Merseyside,0,56103,True,10,11
+183,ALI BABA LANCASTER LTD,7829434,dissolved,ltd,2022-05-24,0,2011-10-31,95 King Street,Lancaster,LA1 1RH,0,Lancs,0,56103,True,10,05
+184,WIRRAL LIMITED,7829598,dissolved,ltd,2015-06-16,0,2011-10-31,77 Wallasey Village,Wallasey,CH45 3LE,0,Wirral,0,56103,True,10,06
+185,MY MR CHICKEN LIMITED,7828826,dissolved,ltd,2014-10-21,0,2011-10-31,159 The Pastures,High Wycombe,HP13 5RP,0,Buckinghamshire,0,56103,True,10,10
+186,MURAT (UK) LIMITED,7830235,dissolved,ltd,2019-07-25,0,2011-01-11,Craftwork Studios,London,EC1Y 8NA,1-3 Dufferin Street,0,0,56103,True,01,07
+187,AMMURAPI LIMITED,7830805,dissolved,ltd,2020-07-04,England,2011-01-11,21 Edensor Gardens,London,W4 2QY,0,0,England,56103,True,01,07
+188,BENUSEN LIMITED,7831990,dissolved,ltd,2014-04-11,England,2011-02-11,266-268 High Street,Waltham Cross,EN8 7EA,0,Hertfordshire,England,56103,True,02,04
+189,AFTALA LIMITED,7839074,dissolved,ltd,2022-11-07,0,2011-08-11,C/O Anderson Brookes Insolvency Practitioners Limi 4th Floor Churchgate House,Bolton,BL1 1HL,30 Churchgate,0,0,56103,True,08,11
+190,SUBEATER LIMITED,7837384,dissolved,ltd,2020-04-05,0,2011-07-11,Quadrant House,London,E1W 1YW,4 Thomas More Square,0,0,56103,True,07,04
+191,SHUM & MO ENTERPRISE LTD,7843383,dissolved,ltd,2015-06-16,0,2011-11-11,87 North Road,Poole,BH14 0LT,0,Dorset,0,56103,True,11,06
+192,PIZZA VALO LIMITED,7849013,dissolved,ltd,2017-02-05,0,2011-11-16,293 Green Lanes,London,N13 4XS,Palmers Green,0,0,56103,True,11,02
+193,MANDARIN CHINESE TAKEAWAY LTD,7851151,dissolved,ltd,2019-04-16,0,2011-11-17,352a Carlton Hill,Nottingham,NG4 1JB,0,0,0,56103,True,11,04
+194,KPF LTD,7853417,dissolved,ltd,2015-10-11,0,2011-11-18,152 Stoke Newington Road,London,N16 7XA,0,0,0,56103,True,11,10
+195,ANIKA LIMITED,7849048,dissolved,ltd,2015-12-29,0,2011-11-16,Qudnet House Cromwell Industrial Estate,London,E10 7QZ,Staffa Road,0,0,56103,True,11,12
+196,RAJAH SAPPHIRE LIMITED,7851356,dissolved,ltd,2014-09-23,0,2011-11-17,11 Halliwick Court Parade,London,N12 0NB,Woodhouse Road,0,0,56103,True,11,09
+197,IMPERIAL CHEF LIMITED,7851671,dissolved,ltd,2018-09-01,0,2011-11-17,The Manor House 260 Ecclesall Road South,Sheffield,S11 9PS,0,0,0,56103,True,11,09
+198,THE DELI SANDWICH LTD,7855987,dissolved,ltd,2016-10-05,0,2011-11-22,300 St. Marys Road,Liverpool,L19 0NQ,Garston,0,0,56103,True,11,10
+199,LITTLE SPROUTS CATERING COMMUNITY INTEREST COMPANY,7803031,dissolved,ltd,2021-07-27,0,2011-10-10,4 Winpenny Close,Yarm,TS15 9XG,0,Cleveland,0,56290,True,10,07
+200,RPS REFRESH LTD,7805132,dissolved,ltd,2015-01-27,0,2011-11-10,22 Wyresdale Crescent,Greenford,UB6 8TH,Perivale,London,0,56290,True,11,01
+201,GLE SLOANE AVENUE LIMITED,7806737,active,ltd,1970-01-01,United Kingdom,2011-12-10,Flat 1 5 Chelsea Embankment,London,SW3 4LF,Old Ferry House,0,United Kingdom,56290,True,12,01
+202,BITE IT LTD,7806829,dissolved,ltd,2016-08-03,0,2011-12-10,89 Sycamore Road,Smethwick,B66 4NT,0,West Midlands,0,56290,True,12,08
+203,CLIFTON STREET BAKERY LIMITED,7809610,dissolved,ltd,2021-12-21,England,2011-10-13,"The Annexe, Walton Lodge Hillcliffe Road",Warrington,WA4 6NU,Walton,0,England,56290,True,10,12
+204,DELICIOUS NUTRITIOUS LIMITED,7810230,dissolved,ltd,2019-01-10,0,2011-10-14,31 Bath Road,Felixstowe,IP11 7JN,0,Suffolk,0,56290,True,10,01
+205,MITHAS CORNER LIMITED,7809192,dissolved,ltd,2015-09-06,0,2011-10-13,47 Scotland Road,Nelson,BB9 7UT,0,0,0,56290,True,10,09
+206,MAITLAND & ASSOCIATES LTD,7802970,dissolved,ltd,2014-04-11,0,2011-10-10,1 Leafield Copse,Bracknell,RG12 9YX,0,Berkshire,0,56290,True,10,04
+207,F.J.M. TRADING LIMITED,7814378,dissolved,ltd,2018-11-20,0,2011-10-18,258 Leicester Road,Markfield,LE67 9RG,Field Head,Leicestershire,0,56290,True,10,11
+208,WILKINSON OUTSIDE CATERING LTD,7814684,dissolved,ltd,2021-01-06,0,2011-10-18,Carlyle House,Bolton,BL1 4BY,78 Chorley New Road,Lancs,0,56290,True,10,01
+209,SECURE ANCHORS LTD,7813698,dissolved,ltd,2016-12-20,0,2011-10-18,78 Hartley Road,Nottingham,NG7 3AF,0,0,0,56290,True,10,12
+210,SARTAJ SWEET CENTRE LIMITED,7813936,dissolved,ltd,2014-07-10,0,2011-10-18,278 Green Lane Road,Leicester,LE5 4PB,0,0,0,56290,True,10,07
+211,F.E.C. FERRARI ENERGY CORPORATION LIMITED,7815909,dissolved,ltd,2016-12-20,0,2011-10-19,2nd Floor Cambridge House,Harlow,CM20 2EQ,Cambridge Road,Essex,0,56290,True,10,12
+212,THE OAK BAKERY LIMITED,7817906,active,ltd,1970-01-01,England,2011-10-20,Unit 2.02 High Weald House,Bexhill,TN39 5ES,Glovers End,East Sussex,England,56290,True,10,01
+213,PFCHORLEY LIMITED,7818615,dissolved,ltd,2015-02-17,0,2011-10-21,2nd Floor,London,E1 1JE,112-116 Whitechapel Road,0,0,56290,True,10,02
+214,EXCELLING LIMITED,7825082,dissolved,ltd,2020-11-24,0,2011-10-27,42 Market Street,Peterborough,PE7 1BD,Whittlesey,0,0,56290,True,10,11
+215,BELVEDERE TRADITIONAL LTD,7826497,dissolved,ltd,2018-02-27,0,2011-10-27,340 Kilburn High Road,London,NW6 2QJ,Kilburn,London,0,56290,True,10,02
+216,THE SALISBURY CUPCAKE COMPANY LTD,7827147,dissolved,ltd,2014-09-12,0,2011-10-28,Hardy Cottage,Weymouth,DT3 5LZ,Laurel Lane,Dorset,0,56290,True,10,09
+217,EKRAN LIMITED,7826861,dissolved,ltd,2016-12-01,United Kingdom,2011-10-28,"5 The Market, Wrythe Lane",Carshalton,SM5 1AG,0,Surrey,United Kingdom,56290,True,10,12
+218,ERKAN LIMITED,7826877,dissolved,ltd,2015-02-17,0,2011-10-28,8 High Street,Boston,PE21 8SH,0,Lincolnshire,0,56290,True,10,02
+219,NMC HALAL FOODS LIMITED,7829773,dissolved,ltd,2021-12-07,0,2011-10-31,Bespoke Insolvency Solutions,Bury,BL9 6DT,Suite 6 1-7 Taylor Street,0,0,56290,True,10,12
+220,ROWSWELL & LEES LTD,7839882,dissolved,ltd,2015-11-18,United Kingdom,2011-09-11,4th Floor Allan House,London,W1G 0AH,10 John Princes Street,0,United Kingdom,56290,True,09,11
+221,SIXPENNY KITCHENS LIMITED,7847208,dissolved,ltd,2018-01-23,England,2011-11-14,Sixpenny Nursery,Devizes,SN10 2LT,Roundway Hill Business Centre,Wiltshire,England,56290,True,11,01
+222,SIMS GLOBAL LIMITED,7846418,dissolved,ltd,2020-10-20,0,2011-11-14,9a High Street,West Drayton,UB7 7QG,0,0,0,56290,True,11,10
+223,TIFFANY'S SUSSEX LTD,7849225,dissolved,ltd,2014-10-21,United Kingdom,2011-11-16,22 North Road,Brighton,BN1 1YA,0,East Sussex,United Kingdom,56290,True,11,10
+224,TUBE DINER LIMITED,7848134,dissolved,ltd,2015-05-26,United Kingdom,2011-11-15,26 Berkeley Square,Bristol,BS8 1HP,0,0,United Kingdom,56290,True,11,05
+225,CARTERS TEXAS SMOKEPIT LIMITED,7852175,dissolved,ltd,2021-06-07,0,2011-11-18,Trafalgar House 223,Portsmouth,PO6 4PY,Southampton Road,0,0,56290,True,11,06
+226,S&S (GB) LTD,7850156,dissolved,ltd,2018-04-24,England,2011-11-16,11 Osborne Close,Beckenham,BR3 3RH,0,0,England,56290,True,11,04
+227,UPPERCRUST (LITTLEHAMPTON) LTD,7856780,dissolved,ltd,2019-01-15,0,2011-11-22,9 Vinnetrow Business Park,Chichester,PO20 1QH,Vinnetrow Road,West Sussex,0,56290,True,11,01
